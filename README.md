@@ -3,6 +3,10 @@
 
 英文需求文档 https://wwi.lanzouw.com/isTJFz40aze
 
+其上有7种方法实现
+
+考核程序 https://wwi.lanzouw.com/iGfhaz3w15g 解压后把python文件改名为project1.py，放入文件夹运行project1_sanitycheck.py文件即可
+
 下文为机翻内容
 
 简介
